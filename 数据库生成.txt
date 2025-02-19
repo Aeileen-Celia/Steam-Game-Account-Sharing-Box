@@ -1,0 +1,2 @@
+写到文件 (取运行目录 () ＋ “\Steam.edb”, #DefaultEdb)
+DefaultEdb是数据库生成
